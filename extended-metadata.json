@@ -1,0 +1,33 @@
+{
+    "verification":"2110ef3d33916d6bea",
+    "info": {
+        "url_png_icon_64x64": "http(s) url to pool icon; png format; not animated; max 40kb",
+        "url_png_logo": "http(s) url to pool logo; png format; not animated; max 50kb",
+        "location": "Ho Chi Minh, Vietnam",
+        "social": {
+            "twitter_handle": "",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": "",
+            "patreon_handle": "",
+            "linkedin_handle": "",
+            "ada_handle": "$cexplorer"
+        },
+        "company": {
+            "name": "ATHL SOLUTIONS JSC",
+            "addr": "Thu Duc",
+            "city": "HO CHI MINH",
+            "country": "VIETNAM",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "I have a lot of experiences in Telecom and IT field.",
+            "server": "Our sytsem is on DataCenter and run 24/7",
+            "company": "ATHL SOLUTIONS JSC"
+        }
+    }
+}
